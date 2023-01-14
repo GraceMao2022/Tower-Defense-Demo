@@ -51,6 +51,9 @@ TagManager:
   - name: Bullet
     uniqueID: 775301233
     locked: 0
+  - name: Laser
+    uniqueID: 1616423461
+    locked: 0
   - name: Tower Barrel
     uniqueID: 1296708717
     locked: 0
